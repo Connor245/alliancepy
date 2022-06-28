@@ -30,3 +30,4 @@ class Season(enum.IntEnum):
     RELIC_RECOVERY = 1718
     ROVER_RUCKUS = 1819
     SKYSTONE = 1920
+    FREIGHT_FRENZY=2021
